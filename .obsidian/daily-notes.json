@@ -1,5 +1,4 @@
 {
   "template": "Template/{{YYYY-MM-DD-}}",
-  "format": "YYYY-MM-DD-",
-  "autorun": true
+  "format": "YYYY-MM-DD-"
 }
