@@ -26,5 +26,6 @@
     "editor:configure-toolbar",
     "markdown:add-metadata-property",
     "editor:toggle-fold-properties"
-  ]
+  ],
+  "openBehavior": "daily"
 }
